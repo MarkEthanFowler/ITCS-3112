@@ -1,0 +1,14 @@
+D:\School\ITCS 3112\GPACalculator\GPACalculator\bin\Debug\net8.0\GPACalculator.exe
+D:\School\ITCS 3112\GPACalculator\GPACalculator\bin\Debug\net8.0\GPACalculator.deps.json
+D:\School\ITCS 3112\GPACalculator\GPACalculator\bin\Debug\net8.0\GPACalculator.runtimeconfig.json
+D:\School\ITCS 3112\GPACalculator\GPACalculator\bin\Debug\net8.0\GPACalculator.dll
+D:\School\ITCS 3112\GPACalculator\GPACalculator\bin\Debug\net8.0\GPACalculator.pdb
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfoInputs.cache
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfo.cs
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.csproj.CoreCompileInputs.cache
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.dll
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\refint\GPACalculator.dll
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.pdb
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\GPACalculator.genruntimeconfig.cache
+D:\School\ITCS 3112\GPACalculator\GPACalculator\obj\Debug\net8.0\ref\GPACalculator.dll
